@@ -8,3 +8,5 @@
 ![Inventory](https://github.com/Nesewebel/simple-dark/blob/master/readme-images/inventory.png?raw=true)
 ### Menu: 
 ![Menu](https://github.com/Nesewebel/simple-dark/blob/master/readme-images/menu.png?raw=true)
+### You can support me with Nimiq donations:
+[![Donate NIM](https://www.nimiq.com/accept-donations/img/donationBtnImg/light-blue-big.svg)](https://safe.nimiq.com/#_request/NQ68MA2F70NTTLBNRXNT8U5Y1CQF5X046JVL_)
